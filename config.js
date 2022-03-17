@@ -9,7 +9,7 @@ const config = {
     logo: 'https://arizakod.com/wp-content/uploads/2022/03/logo.png',
     logoLink: 'https://coinhane.net/',
     title:
-      "<a href='https://coinhane.net/'><img class='img-responsive' src='https://arizakod.com/wp-content/uploads/2022/03/logo.png' alt='Coinhane' /></a>",
+      "<a href='https://coinhane.net/egitim'><img class='img-responsive' src='https://arizakod.com/wp-content/uploads/2022/03/learn.png' alt='Eğitim' /></a>",
     githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
     helpUrl: '',
     tweetText: '',
