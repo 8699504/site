@@ -1,10 +1,11 @@
 ---
 title: "Bitcoin"
 metaTitle: "Bitcoin Hakkında Tüm Merak Edilenler"
-metaDescription: "This is the meta description"
+metaDescription: "Bitcoinin Geleceği ve İlerleyen Noktalarda Nereye Geleceği İle İlgili
+"
 ---
 
-Some introduction text. Lists out all the headings from h1 to h6. Markdown link handling for relative and absolute URLs. Easy to customise.
+Bitcoin hakkında tüm merak edilenler.
 
 # Heading H1
 Heading 1 text
