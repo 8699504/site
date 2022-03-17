@@ -83,6 +83,13 @@ if (config.gatsby && !config.gatsby.trailingSlash) {
 }
 
 module.exports = {
+  siteMetadata: {
+    siteUrl: 'https://coinews.netlify.app/'
+  },
+  plugins: ['gatsby-plugin-robots-txt']
+};
+
+module.exports = {
   pathPrefix: config.gatsby.pathPrefix,
   siteMetadata: {
     title: config.siteMetadata.title,
