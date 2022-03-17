@@ -4,6 +4,7 @@ const config = require("./config");
 const plugins = [
   'gatsby-plugin-sitemap',
   'gatsby-plugin-sharp',
+  'gatsby-plugin-robots-txt' ,
   {
     resolve: `gatsby-plugin-layout`,
     options: {
@@ -19,6 +20,7 @@ const plugins = [
       path: `${__dirname}/content/`
     }
   },
+
   {
     resolve: 'gatsby-plugin-mdx',
     options: {
@@ -82,12 +84,6 @@ if (config.gatsby && !config.gatsby.trailingSlash) {
   plugins.push('gatsby-plugin-remove-trailing-slashes');
 }
 
-module.exports = {
-  siteMetadata: {
-    siteUrl: 'https://coinews.netlify.app/'
-  },
-  plugins: ['gatsby-plugin-robots-txt']
-};
 
 module.exports = {
   pathPrefix: config.gatsby.pathPrefix,
@@ -115,3 +111,4 @@ module.exports = {
     FUNCTIONS: false // EXPERIMENTAL · (Umbrella Issue (https://gatsby.dev/functions-feedback)) · Compile Serverless functions in your Gatsby project and write them to disk, ready to deploy to Gatsby Cloud
   }
 };
+
