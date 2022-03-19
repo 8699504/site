@@ -1,16 +1,16 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://coinews.netlify.app/',
+    siteUrl: 'https://cointy.site/',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://arizakod.com/wp-content/uploads/2022/03/logo.png',
-    logoLink: 'https://coinhane.net/',
+    logoLink: 'https://cointy.site/',
     title:
-      "<a href='https://coinhane.net/'><img class='img-responsive' src='https://arizakod.com/wp-content/uploads/2022/03/logo.png' alt='Coinhane' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "<a href='https://cointy.site/'><img class='img-responsive' src='https://arizakod.com/wp-content/uploads/2022/03/ty.png' alt='Cointy' /></a>",
+    githubUrl: '#',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -44,7 +44,7 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Coinhane', link: 'https://coinhane.net' }],
+    links: [{ text: 'Cointy', link: 'https://cointy.site' }],
     frontline: false,
     ignoreIndex: true,
     title:
