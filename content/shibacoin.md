@@ -1,7 +1,7 @@
 ---
 title: "Shib Coin"
 metaTitle: "Shib Coin Nedir? Alınır mı? Yorumları?"
-metaDescription: "Shib Coin Hakkında Tüm Merak Edilenler ve Yorumları
+metaDescription: "Shib Coin Hakkında Tüm Merak Edilenler ve Yorumları"
 ---
 
 # Shiba Coin Nedir? Alınır mı? Yorumları?
