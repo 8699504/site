@@ -1,6 +1,6 @@
 ---
-title: "Avax Nedir"
-metaTitle: "Avax Nedir? Alınır mı? Yorumları"
+title: "Avax"
+metaTitle: "Avax Nedir Alınır mı Yorumları"
 metaDescription: "Avax Hakkında Az Bilinenler, Yatırım Özellikleri ve Yorumları"
 ---
 
