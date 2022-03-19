@@ -13,7 +13,7 @@ Bazı coinlerin oldukça yenilikçi ve farklı olduğunu söyleyebiliriz. Bu coi
 
 Avax herhangi bir merkeze bağlı olmayan finans uygulamalarının geliştirilmesi, yenilerinin piyasaya çıkarılması ve teşvik elde edilmesi amacıyla ortaya çıkarılmış bir blok zincir projesidir. Herkesin kendi projesini geliştirmesine olanak sağlar. Bu sebeple x-chain c-chain ve p-chain gibi zincir alt yapıları bulunur. Bunların her birinin ayrı ayrı kullanıcıları olduğu gibi alt yapıların farklı özelliklerinin olduğunu da söylemek yanlış olmayacaktır. 
 
-# Avax’ın Farkları Nelerdir?
+## Avax’ın Farkları Nelerdir?
 
 Avax güçlü ve güvenilir bir alt yapıya sahiptir. Transfer sürecini ve transfer ücretlerini oldukça daraltır. Hızlı olmasının yanı sıra yeniliklere imkan sağlaması ile de tanınır. Bu özelliği bakımından da farklı şirketler tarafından yoğun olarak tercih edilmektedir. 
 
@@ -37,9 +37,9 @@ Bu soruya net bir cevap vermek mümkün değildir. Şu an için gerek alt yapıs
 
 Yine de bu o coinin alınıp alınmayacağı hususunda netlik kazanan bir durum değildir. 
 
-Bir coininin yatırım aracı olarak kullanılması öncelikle yatırımcısına ve geleceğe bağlı olarak değişkenlik gösterir. Sizler de bu coinler hakkında daha fazla bilgi edinmek adına dilerseniz internette yer alan videoları izleyebilirsiniz.  Aynı şekilde analiz ve hesaplamalara da göz atabilirsiniz. Bu sayede uzun vadede coinler hakkında daha detaylı bilgi sahibi olmanız da mümkün olabilir. 
+Bir coininin yatırım aracı olarak kullanılması öncelikle yatırımcısına ve geleceğe bağlı olarak değişkenlik gösterir. Sizler de bu coinler hakkında daha fazla bilgi edinmek adına dilerseniz internette yer alan videoları izleyebilirsiniz. Aynı şekilde analiz ve hesaplamalara da göz atabilirsiniz. Bu sayede uzun vadede coinler hakkında daha detaylı bilgi sahibi olmanız da mümkün olabilir. 
 
-Şimdilik Avax hakkında gelecek vaat eden başarılı bir coin şeklinde yorum yapmak yanlış olmayacaktır. İlerleyen dönemlerde nasıl bir yol izleyeceği ve hangi aşamaları geçeceği ise merak konusu olmaya devam etmektedir.  
+Şimdilik Avax hakkında gelecek vaat eden başarılı bir coin şeklinde yorum yapmak yanlış olmayacaktır. İlerleyen dönemlerde nasıl bir yol izleyeceği ve hangi aşamaları geçeceği ise merak konusu olmaya devam etmektedir. 
 
 ## Şahsi Yorumumuz
 
