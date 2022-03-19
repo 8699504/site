@@ -1,7 +1,8 @@
 ---
 title: "Avax"
-metaTitle: "Avax Nedir Alınır mı Yorumları"
-metaDescription: "Avax Hakkında Az Bilinenler, Yatırım Özellikleri ve Yorumları"
+metaTitle: "Avax Hakkında Tüm Merak Edilenler"
+metaDescription: "Avax Geleceği ve İlerleyen Noktalarda Nereye Geleceği İle İlgili
+"
 ---
 
 # Avax Nedir? Alınır mı? Yorumları
