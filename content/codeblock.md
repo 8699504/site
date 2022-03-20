@@ -4,23 +4,6 @@ metaTitle: "Burada coinler hakkında genel bilgilendirme yapılacaktır."
 metaDescription: "Coinler ve tüm özellikleri burada sizi bekliyor."
 ---
 
-The following is a code block with JavaScript language syntax highlighting.
+# Coin Nedir?
 
-```javascript
-import React from 'react';
-```
-
-Supports multiple languages.
-
-The following is a code block with diff. Lines with `+` highlighted in green shade indicating an addition. Lines with `-` highlighted in red shade indicating a deletion.
-
-```javascript
-- const data = ['1','2'];
-+ const data = [1,2];
-```
-
-## Live Editing example
-
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
+Genel olarak coinlerin özellikleri ve nasıl ortaya çıktığı ile ilgili detaylı bir araştırma burada sizinle olacak.
