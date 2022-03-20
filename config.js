@@ -9,7 +9,7 @@ const config = {
     logo: 'https://arizakod.com/wp-content/uploads/2022/03/logo.png',
     logoLink: 'https://cointy.site/',
     title:
-      "<a href='https://cointy.site/'><img class='img-responsive' src='https://arizakod.com/wp-content/uploads/2022/03/ty.png' alt='Cointy' /></a>",
+      "<a href='https://cointy.site/ty.pdf'><img class='img-responsive' src='https://arizakod.com/wp-content/uploads/2022/03/ty.png' alt='Cointy' /></a>",
     githubUrl: '#',
     helpUrl: '',
     tweetText: '',
