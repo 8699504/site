@@ -1,6 +1,6 @@
 ---
 title: "Dogecoin"
-metaTitle: Dogecoin Hakkında Tüm Merak Edilenler"
+metaTitle: "Dogecoin Hakkında Tüm Merak Edilenler"
 metaDescription: "Dogecoin alınır mı? Dogecoin Nedir? Dogecoin Hakkında Tüm Merak Edilenler"
 ---
 # Dogecoin Nedir? Alınır mı? Yorumları
